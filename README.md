@@ -9,19 +9,23 @@ OpenStreetMap 简体中文本地化 索引
 
 ## 基础内容
 
-* OpenStreetMap 官网
+* OpenStreetMap 官网 （位于TranslateWiki）（负责人：@鼠宝宝）
 * OpenStreetMap Wiki
 
 ## 编辑器类
 
-* iDeditor/Rapid
-* JOSM
+* iDeditor/Rapid （位于Transifex）（负责人：@鼠宝宝）
+* JOSM （部分位于Transifex）
 
 ## 工具类网站
 
 * welcome.osm.be
 * HOT
 * Taginfo
+
+## 社区类平台
+
+* WeeklyOSM
 
 ## 衍生网站
 
