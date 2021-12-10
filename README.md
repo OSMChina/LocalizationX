@@ -19,9 +19,13 @@ OpenStreetMap 简体中文本地化 索引
 
 ## 工具类网站
 
-* welcome.osm.be
-* HOT
-* Taginfo
+| 工具名称 | 网站 | 翻译平台 | 翻译链接 | 代码仓库 | 简中负责人 | OSMChina参与成员 |
+|-|-|-|-|-|-|-|
+| welcome.osm.be | | GitHub | | | | |
+| HOT | | | | | | |
+| Taginfo | taginfo.osm.org | GitHub | | | | |
+| Overpass-Turbo | overpass-turbo.eu | | | | | |
+|OpenRailwayMap| | | | | | |
 
 ## 社区类平台
 
@@ -29,7 +33,10 @@ OpenStreetMap 简体中文本地化 索引
 
 ## 衍生网站
 
-* OpenRailwayMap
+* OpenGeofictionMap opengeofiction.net/
+* OpenHistoricalMap http://www.openhistoricalmap.org/ https://github.com/OpenHistoricalMap https://wiki.openstreetmap.org/wiki/Open_Historical_Map
+* OpenSeaMap
+* OpenSnowMap
 
 ## 基础设施
 
