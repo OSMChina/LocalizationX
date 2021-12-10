@@ -38,8 +38,8 @@ OpenStreetMap 简体中文本地化 索引
 
 | 衍生网站名称 | 网站 | 翻译平台 | 翻译状态 | 翻译链接 | 代码仓库 | OSMWiki页面 | 简中负责人 | OSMChina参与成员 |
 |-|-|-|-|-|-|-|-|-|
-| OpenGeofictionMap | [opengeofiction.net] | | | | | | | |
-| OpenHistoricalMap | [openhistoricalmap.org](http://www.openhistoricalmap.org) | | [[[Open_Historical_Map]]](https://wiki.openstreetmap.org/wiki/Open_Historical_Map) | [OpenHistoricalMap](https://github.com/OpenHistoricalMap) | | | | |
+| OpenGeofictionMap | [opengeofiction.net](https://opengeofiction.net) | 无 | 无 | 无 | [geofictician/opengeofiction-website](https://github.com/geofictician/opengeofiction-website) | [[[OpenGeofiction]]](https://wiki.openstreetmap.org/wiki/OpenGeofiction) | 无 | 无 |
+| OpenHistoricalMap | [openhistoricalmap.org](http://www.openhistoricalmap.org) | 无| 无 | 无 | [OpenHistoricalMap](https://github.com/OpenHistoricalMap) | [[[Open_Historical_Map]]](https://wiki.openstreetmap.org/wiki/Open_Historical_Map) | 无 | 无 |
 | OpenSeaMap | | | | | | | | |
 | OpenSnowMap | | | | | | | | |
 
