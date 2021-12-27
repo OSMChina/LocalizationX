@@ -34,6 +34,7 @@ OpenStreetMap 简体中文本地化 索引
 | OpenRailwayMap | [openrailwaymap.org](https://openrailwaymap.org) | GitHub | 仍有错漏 | [OpenRailwayMap/OpenRailwayMap](https://github.com/OpenRailwayMap/OpenRailwayMap) | [OpenRailwayMap/OpenRailwayMap](https://github.com/OpenRailwayMap/OpenRailwayMap) | [[[OpenRailwayMap]]](https://wiki.openstreetmap.org/wiki/OpenRailwayMap) | 暂无 | 未知 |
 | OSM Smart Menu | x | Weblate | 完全没有 | [osm-smart-menu](https://hosted.weblate.org/engage/osm-smart-menu) | https://github.com/jgpacker/osm-smart-menu | x | 暂无 | 暂无 |
 | MapROuteleet | - | Transifex | 完全没有 | https://www.transifex.com/osmlab/maproulette3/ | - | - | - | - |
+| MapOSMatic | https://print.get-map.org | Weblate | 完全没有 | https://translate.get-map.org/engage/maposmatic/?utm_source=widget | - | - | - | - |
 
 ## 衍生网站
 
