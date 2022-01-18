@@ -22,6 +22,7 @@ OpenStreetMap 简体中文本地化 索引
 |-|-|-|-|-|-|-|-|-|
 | iDeditor/Rapid | | Transifex | | | | | 目前暂无 | 众多 |
 | JOSM | | 部分位于Transifex | | | | | 目前暂无 | 众多 |
+| OsmAnd | osmand.net | Weblate | 有残缺 | https://hosted.weblate.org/projects/osmand/ | https://github.com/osmandapp/OsmAnd | x | x | x |
 
 ## 工具
 
