@@ -1,0 +1,24 @@
+{
+  "DERIVATIVE": [
+    {
+      "derivative_name": "OpenStreetMap 官网",
+      "website_url": "https://openstreetmap.org",
+      "translate_platform": "TranslateWiki",
+      "translate_status": "等待校对",
+      "translate_link": "",
+      "code_repository": "",
+      "osmwiki_page": "",
+      "contributor": "众多"
+    },
+    {
+      "derivative_name": "OpenStreetMap Wiki网站",
+      "website_url": "https://wiki.openstreetmap.org",
+      "translate_platform": "TranslateWiki",
+      "translate_status": "基本完善",
+      "translate_link": "",
+      "code_repository": "",
+      "osmwiki_page": "",
+      "contributor": "众多"
+    }
+  ]
+}

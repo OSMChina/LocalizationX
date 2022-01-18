@@ -1,0 +1,31 @@
+{
+  "len": 8,
+  "i18n": [
+    {
+      "locale": "en-US",
+      "translation": {
+        "derivative_name": "Derivative Name",
+        "website_url": "Website URL",
+        "translate_platform": "Translate Platform",
+        "translate_status": "Translate Status (zh-hans)",
+        "translate_link": "Translate Link",
+        "code_repository": "Code Repository",
+        "osmwiki_page": "OSM Wiki Page",
+        "contributor": "Contributor"
+      }
+    },
+    {
+      "locale": "zh-CN",
+      "translation": {
+        "derivative_name": "衍生网站名称",
+        "website_url": "网站URL",
+        "translate_platform": "翻译平台",
+        "translate_status": "翻译状态",
+        "translate_link": "翻译链接",
+        "code_repository": "代码仓库",
+        "osmwiki_page": "OSMWiki页面",
+        "contributor": "OSMChina参与成员"
+      }
+    }
+  ]
+}

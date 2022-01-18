@@ -32,6 +32,8 @@ OpenStreetMap 本地化索引
 
 ## 工具 / TOOL
 
+<!-- MARKDOWN_TABLE_TOOL BEGIN-->
+<!-- WARNING: ALL TABLE ARE MAINTAINED BY PROGRAMME, YOU SHOULD ADD DATA TO COLLECTION JSON -->
 | 工具名称 | 网站URL | 翻译平台 | 翻译状态 | 翻译链接 | 代码仓库 | OSMWiki页面 | OSMChina参与成员 |
 |-|-|-|-|-|-|-|-|
 | OpenStreetMap Welcome Tool | [welcome.osm.be](https://welcome.osm.be) | GitHub | 等待校对 | [OSMChina/osm-welcome-tool](https://github.com/OSMChina/osm-welcome-tool) | [osmbe/osm-welcome-tool](https://github.com/osmbe/osm-welcome-tool) | 暂无 | [@快乐的老鼠宝宝](https://github.com/LaoshuBaby) |
@@ -46,12 +48,16 @@ OpenStreetMap 本地化索引
 https://mapcomplete.osm.be/ weblate
 gomap weblate https://hosted.weblate.org/projects/go-map/
 organicmaps weblate https://hosted.weblate.org/projects/organicmaps/
+<!-- MARKDOWN_TABLE_TOOL END-->
 
 ## 衍生网站 / DERIVATIVE
 
+<!-- MARKDOWN_TABLE_DERIVATIVE BEGIN-->
+<!-- WARNING: ALL TABLE ARE MAINTAINED BY PROGRAMME, YOU SHOULD ADD DATA TO COLLECTION JSON -->
 | 衍生网站名称 | 网站URL | 翻译平台 | 翻译状态 | 翻译链接 | 代码仓库 | OSMWiki页面 | OSMChina参与成员 |
 |-|-|-|-|-|-|-|-|
 | OpenGeofictionMap | [opengeofiction.net](https://opengeofiction.net) | 无 | 无 | 无 | [geofictician/opengeofiction-website](https://github.com/geofictician/opengeofiction-website) | [[[OpenGeofiction]]](https://wiki.openstreetmap.org/wiki/OpenGeofiction) | 无 |
 | OpenHistoricalMap | [openhistoricalmap.org](http://www.openhistoricalmap.org) | 无| 无 | 无 | [OpenHistoricalMap](https://github.com/OpenHistoricalMap) | [[[Open_Historical_Map]]](https://wiki.openstreetmap.org/wiki/Open_Historical_Map) | 无 |
 | OpenSeaMap | | | | | | | |
 | OpenSnowMap | | | | | | | |
+<!-- MARKDOWN_TABLE_DERIVATIVE END-->
