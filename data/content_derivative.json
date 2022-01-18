@@ -3,23 +3,24 @@
     {
       "name": "OpenGeofictionMap",
       "website_url": "[opengeofiction.net](https://opengeofiction.net)",
-      "translate_platform": "无",
-      "translate_status": "无",
-      "translate_link": "无",
+      "translate_platform": "",
+      "translate_status": "",
+      "translate_link": "",
       "code_repository": "[geofictician/opengeofiction-website](https://github.com/geofictician/opengeofiction-website)",
       "osmwiki_page": "[[[OpenGeofiction]]](https://wiki.openstreetmap.org/wiki/OpenGeofiction)",
-      "contributor": "无"
+      "contributor": ""
     },
     {
       "name": "OpenHistoricalMap",
       "website_url": "[openhistoricalmap.org](http://www.openhistoricalmap.org)",
-      "translate_platform": "无",
-      "translate_status": "无",
-      "translate_link": "无",
+      "translate_platform": "",
+      "translate_status": "",
+      "translate_link": "",
       "code_repository": "[OpenHistoricalMap](https://github.com/OpenHistoricalMap)",
       "osmwiki_page": "[[[Open_Historical_Map]]](https://wiki.openstreetmap.org/wiki/Open_Historical_Map)",
-      "contributor": "无"
-    },{
+      "contributor": ""
+    },
+    {
       "name": "OpenSeaMap",
       "website_url": "",
       "translate_platform": "",
@@ -28,7 +29,8 @@
       "code_repository": "",
       "osmwiki_page": "",
       "contributor": ""
-    },{
+    },
+    {
       "name": "OpenSnowMap",
       "website_url": "",
       "translate_platform": "",
