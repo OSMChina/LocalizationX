@@ -1,9 +1,9 @@
 import json
 from functools import cmp_to_key
 
-syntax_1 = "<!-- MARKDOWN_TABLE_BASIC BEGIN-->"
+syntax_1 = "<!-- MARKDOWN_TABLE_EDITOR BEGIN-->"
 syntax_2 = "<!-- WARNING: ALL TABLE ARE MAINTAINED BY PROGRAMME, YOU SHOULD ADD DATA TO COLLECTION JSON -->"
-syntax_3 = "<!-- MARKDOWN_TABLE_BASIC END-->"
+syntax_3 = "<!-- MARKDOWN_TABLE_EDITOR END-->"
 
 
 def x_sort(data):
@@ -27,7 +27,7 @@ def markdown_header(translation: dict, locale: str):
         if translation[i]["locale"] == locale:
             locale_translation = translation[i]["translation"]
     data = [
-        locale_translation["basic_website_name"],
+        locale_translation["editor_name"],
         locale_translation["website_url"],
         locale_translation["translate_platform"],
         locale_translation["translate_status"],
@@ -46,7 +46,7 @@ def markdown_table(length: int):
 
 def markdown_entry(content_entry: dict):
     data = [
-        content_entry["basic_website_name"],
+        content_entry["editor_name"],
         content_entry["website_url"],
         content_entry["translate_platform"],
         content_entry["translate_status"],
@@ -59,9 +59,9 @@ def markdown_entry(content_entry: dict):
 
 
 def markdown_gen(locale: str):
-    content_json = open("..\\data\\content_basic.json", "r", encoding="utf-8")
-    content_data = json.loads(content_json.read())["BASIC"]
-    column_json = open("..\\data\\column_basic.json", "r", encoding="utf-8")
+    content_json = open("..\\data\\content_editor.json", "r", encoding="utf-8")
+    content_data = json.loads(content_json.read())["EDITOR"]
+    column_json = open("..\\data\\column_editor.json", "r", encoding="utf-8")
     column_data = json.loads(column_json.read())
     string = ""
     if locale != "Default":

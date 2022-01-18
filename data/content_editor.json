@@ -1,24 +1,34 @@
 {
   "BASIC": [
     {
-      "basic_website_name": "OpenStreetMap 官网",
-      "website_url": "https://openstreetmap.org",
-      "translate_platform": "TranslateWiki",
-      "translate_status": "等待校对",
+      "editor_name": "iDeditor/Rapid",
+      "website_url": "",
+      "translate_platform": "Transifex",
+      "translate_status": "",
       "translate_link": "",
       "code_repository": "",
       "osmwiki_page": "",
       "contributor": "众多"
     },
     {
-      "basic_website_name": "OpenStreetMap Wiki网站",
-      "website_url": "https://wiki.openstreetmap.org",
-      "translate_platform": "TranslateWiki",
-      "translate_status": "基本完善",
+      "editor_name": "JOSM",
+      "website_url": "",
+      "translate_platform": "部分位于Transifex",
+      "translate_status": "",
       "translate_link": "",
       "code_repository": "",
       "osmwiki_page": "",
       "contributor": "众多"
+    },
+    {
+      "editor_name": "OsmAnd",
+      "website_url": "https://osmand.net",
+      "translate_platform": "Weblate",
+      "translate_status": "有残缺",
+      "translate_link": "https://hosted.weblate.org/projects/osmand",
+      "code_repository": "https://github.com/osmandapp/OsmAnd",
+      "osmwiki_page": "",
+      "contributor": ""
     }
   ]
 }
