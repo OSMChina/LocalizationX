@@ -1,24 +1,85 @@
 {
   "TOOL": [
     {
-      "tool_name": "OpenStreetMap 官网",
-      "website_url": "https://openstreetmap.org",
-      "translate_platform": "TranslateWiki",
+      "tool_name": "OpenStreetMap Welcome Tool",
+      "website_url": "[welcome.osm.be](https://welcome.osm.be)",
+      "translate_platform": "GitHub",
       "translate_status": "等待校对",
-      "translate_link": "",
-      "code_repository": "",
-      "osmwiki_page": "",
-      "contributor": "众多"
+      "translate_link": "[OSMChina/osm-welcome-tool](https://github.com/OSMChina/osm-welcome-tool)",
+      "code_repository": "[osmbe/osm-welcome-tool](https://github.com/osmbe/osm-welcome-tool)",
+      "osmwiki_page": "暂无",
+      "contributor": "[@快乐的老鼠宝宝](https://github.com/LaoshuBaby)"
     },
     {
-      "tool_name": "OpenStreetMap Wiki网站",
-      "website_url": "https://wiki.openstreetmap.org",
-      "translate_platform": "TranslateWiki",
-      "translate_status": "基本完善",
-      "translate_link": "",
-      "code_repository": "",
-      "osmwiki_page": "",
-      "contributor": "众多"
+      "tool_name": "HOT",
+      "website_url": "[HOT Tasking Manager](https://tasks.hotosm.org/)",
+      "translate_platform": "Transifex",
+      "translate_status": "完全没有",
+      "translate_link": "[tasking-manager](https://www.transifex.com/hotosm/tasking-manager/dashboard/)",
+      "code_repository": "[hotosm/tasking-manager](https://github.com/hotosm/tasking-manager)",
+      "osmwiki_page": "[[[Humanitarian_OSM_Team]]](https://wiki.openstreetmap.org/wiki/Humanitarian_OSM_Team)",
+      "contributor": "暂无"
+    },
+    {
+      "tool_name": "Taginfo",
+      "website_url": "[HOT Tasking Manager](https://tasks.hotosm.org/)",
+      "translate_platform": "Transifex",
+      "translate_status": "完全没有",
+      "translate_link": "[tasking-manager](https://www.transifex.com/hotosm/tasking-manager/dashboard/)",
+      "code_repository": "[hotosm/tasking-manager](https://github.com/hotosm/tasking-manager)",
+      "osmwiki_page": "[[[Humanitarian_OSM_Team]]](https://wiki.openstreetmap.org/wiki/Humanitarian_OSM_Team)",
+      "contributor": "暂无"
+    }
+    ,
+    {
+      "tool_name": "Overpass-Turbo",
+      "website_url": "[HOT Tasking Manager](https://tasks.hotosm.org/)",
+      "translate_platform": "Transifex",
+      "translate_status": "完全没有",
+      "translate_link": "[tasking-manager](https://www.transifex.com/hotosm/tasking-manager/dashboard/)",
+      "code_repository": "[hotosm/tasking-manager](https://github.com/hotosm/tasking-manager)",
+      "osmwiki_page": "[[[Humanitarian_OSM_Team]]](https://wiki.openstreetmap.org/wiki/Humanitarian_OSM_Team)",
+      "contributor": "暂无"
+    }
+    ,
+    {
+      "tool_name": " OpenRailwayMap",
+      "website_url": "[HOT Tasking Manager](https://tasks.hotosm.org/)",
+      "translate_platform": "Transifex",
+      "translate_status": "完全没有",
+      "translate_link": "[tasking-manager](https://www.transifex.com/hotosm/tasking-manager/dashboard/)",
+      "code_repository": "[hotosm/tasking-manager](https://github.com/hotosm/tasking-manager)",
+      "osmwiki_page": "[[[Humanitarian_OSM_Team]]](https://wiki.openstreetmap.org/wiki/Humanitarian_OSM_Team)",
+      "contributor": "暂无"
+    }
+    ,
+    {
+      "tool_name": "OSM Smart Menu",
+      "website_url": "[HOT Tasking Manager](https://tasks.hotosm.org/)",
+      "translate_platform": "Transifex",
+      "translate_status": "完全没有",
+      "translate_link": "[tasking-manager](https://www.transifex.com/hotosm/tasking-manager/dashboard/)",
+      "code_repository": "[hotosm/tasking-manager](https://github.com/hotosm/tasking-manager)",
+      "osmwiki_page": "[[[Humanitarian_OSM_Team]]](https://wiki.openstreetmap.org/wiki/Humanitarian_OSM_Team)",
+      "contributor": "暂无"
+    },{
+      "tool_name": "MapROuteleet",
+      "website_url": "[HOT Tasking Manager](https://tasks.hotosm.org/)",
+      "translate_platform": "Transifex",
+      "translate_status": "完全没有",
+      "translate_link": "[tasking-manager](https://www.transifex.com/hotosm/tasking-manager/dashboard/)",
+      "code_repository": "[hotosm/tasking-manager](https://github.com/hotosm/tasking-manager)",
+      "osmwiki_page": "[[[Humanitarian_OSM_Team]]](https://wiki.openstreetmap.org/wiki/Humanitarian_OSM_Team)",
+      "contributor": "暂无"
+    },{
+      "tool_name": "MapOSMatic",
+      "website_url": "[HOT Tasking Manager](https://tasks.hotosm.org/)",
+      "translate_platform": "Transifex",
+      "translate_status": "完全没有",
+      "translate_link": "[tasking-manager](https://www.transifex.com/hotosm/tasking-manager/dashboard/)",
+      "code_repository": "[hotosm/tasking-manager](https://github.com/hotosm/tasking-manager)",
+      "osmwiki_page": "[[[Humanitarian_OSM_Team]]](https://wiki.openstreetmap.org/wiki/Humanitarian_OSM_Team)",
+      "contributor": "暂无"
     }
   ]
 }
