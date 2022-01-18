@@ -1,37 +1,12 @@
 import json
-from functools import cmp_to_key
 
-syntax_1 = "<!-- MARKDOWN_TABLE BEGIN -->"
-syntax_2 = "<!-- WARNING: THIS TABLE IS MAINTAINED BY PROGRAMME, YOU SHOULD ADD DATA TO COLLECTION JSON -->"
-syntax_3 = "<!-- MARKDOWN_TABLE END -->"
+syntax_1 = "<!-- MARKDOWN_TABLE_BASIC BEGIN-->"
+syntax_2 = "<!-- WARNING: ALL TABLE ARE MAINTAINED BY PROGRAMME, YOU SHOULD ADD DATA TO COLLECTION JSON -->"
+syntax_3 = "<!-- MARKDOWN_TABLE_BASIC END-->"
 
 
 def x_sort(data):
-    def compare(dict_a: dict, dict_b: dict):
-        dict_a_packagename = (
-            dict_a["package_name"].replace("_", "").replace("-", "").lower()
-        )
-        dict_b_packagename = (
-            dict_b["package_name"].replace("_", "").replace("-", "").lower()
-        )
-        dict_a_ctan = dict_a["ctan_package"]
-        dict_b_ctan = dict_b["ctan_package"]
-        if dict_a_ctan == "" and dict_b_ctan == "":
-            if dict_a_packagename < dict_b_packagename:
-                return -1
-            if dict_a_packagename > dict_b_packagename:
-                return 1
-        elif dict_a_ctan == "" and dict_b_ctan != "":
-            return 1
-        elif dict_b_ctan == "" and dict_a_ctan != "":
-            return -1
-        else:
-            if dict_a_packagename < dict_b_packagename:
-                return -1
-            if dict_a_packagename > dict_b_packagename:
-                return 1
-
-    data = sorted(data, key=cmp_to_key(compare))
+    data = sorted(data)
     return data
 
 
@@ -49,14 +24,14 @@ def markdown_header(translation: dict, locale: str):
         if translation[i]["locale"] == locale:
             locale_translation = translation[i]["translation"]
     data = [
-        locale_translation["package_name"],
-        locale_translation["institution_name"],
-        locale_translation["maintainer_type"],
-        locale_translation["github_repository"],
-        locale_translation["gitlab_repository"],
-        locale_translation["gitee_repository"],
-        locale_translation["ctan_package"],
-        locale_translation["status"],
+        locale_translation["basic_website_name"],
+        locale_translation["website_url"],
+        locale_translation["translate_platform"],
+        locale_translation["translate_status"],
+        locale_translation["translate_link"],
+        locale_translation["code_repository"],
+        locale_translation["osmwiki_page"],
+        locale_translation["contributor"],
     ]
     return markdown_row(len(data), data)
 
@@ -81,8 +56,8 @@ def markdown_entry(thesis_entry: dict):
 
 
 def markdown_gen(locale: str):
-    thesis_json = open("..\\data\\thesis.json", "r", encoding="utf-8")
-    thesis_data = json.loads(thesis_json.read())["CUTI"]
+    content_json = open("..\\data\\thesis.json", "r", encoding="utf-8")
+    content_data = json.loads(thesis_json.read())["CUTI"]
     column_json = open("..\\data\\column.json", "r", encoding="utf-8")
     column_data = json.loads(column_json.read())
     string = ""

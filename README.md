@@ -6,17 +6,17 @@ OpenStreetMap 本地化索引
 
 ----------
 
-## 基础网站
+## 基础网站 / BASIC
 
-<!-- MARKDOWN_TABLE BEGIN BASIC-->
+<!-- MARKDOWN_TABLE_BASIC BEGIN-->
 <!-- WARNING: ALL TABLE ARE MAINTAINED BY PROGRAMME, YOU SHOULD ADD DATA TO COLLECTION JSON -->
 | 网站名称 | 网站URL | 翻译平台 | 翻译状态 | 翻译链接 | 代码仓库 | OSMWiki页面 | OSMChina参与成员 |
 |-|-|-|-|-|-|-|-|-|
 | OpenStreetMap 官网 | | TranslateWiki | | | | | 众多 |
 | OpenStreetMap Wiki网站 | | TranslateWiki | | | | | 众多 |
-<!-- MARKDOWN_TABLE END BASIC-->"
+<!-- MARKDOWN_TABLE_BASIC END-->
 
-## 编辑器
+## 编辑器 / EDITOR
 
 | 编辑器名称 | 网站URL | 翻译平台 | 翻译状态 | 翻译链接 | 代码仓库 | OSMWiki页面 | OSMChina参与成员 |
 |-|-|-|-|-|-|-|-|-|
@@ -25,7 +25,7 @@ OpenStreetMap 本地化索引
 | OsmAnd | osmand.net | Weblate | 有残缺 | https://hosted.weblate.org/projects/osmand/ | https://github.com/osmandapp/OsmAnd | x | x |
 level Transifex
 
-## 工具
+## 工具 / TOOL
 
 | 工具名称 | 网站URL | 翻译平台 | 翻译状态 | 翻译链接 | 代码仓库 | OSMWiki页面 | OSMChina参与成员 |
 |-|-|-|-|-|-|-|-|-|
@@ -42,7 +42,7 @@ https://mapcomplete.osm.be/ weblate
 gomap weblate
 organicmaps weblate
 
-## 衍生网站
+## 衍生网站 / DERIVATIVE
 
 | 衍生网站名称 | 网站URL | 翻译平台 | 翻译状态 | 翻译链接 | 代码仓库 | OSMWiki页面 | OSMChina参与成员 |
 |-|-|-|-|-|-|-|-|-|
@@ -51,12 +51,12 @@ organicmaps weblate
 | OpenSeaMap | | | | | | | |
 | OpenSnowMap | | | | | | | |
 
-## 社区类平台
+## 社区类平台 / COMMUNITY
 
 **WeeklyOSM**
 
-翻译状态：目前尚未被承认
-长期翻译：暂无
+翻译状态：weeklyosm.eu/cn
+长期翻译：Terry\LaoshuBaby\Qing Cai\Lepuse
 
 ## 外部开源基础设施
 
