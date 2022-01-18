@@ -1,0 +1,24 @@
+{
+  "BASIC": [
+    {
+      "basic_website_name": "bithesis",
+      "website_url": "北京理工大学",
+      "translate_platform": "组织",
+      "translate_status": "github.com/BITNP/BIThesis",
+      "translate_link": "",
+      "code_repository": "",
+      "osmwiki_page": "ctan.org/pkg/bithesis",
+      "contributor": ""
+    },
+    {
+      "package_name": "zjuthesis",
+      "institution_name": "浙江大学",
+      "maintainer_type": "组织",
+      "github_repository": "github.com/TheNetAdmin/zjuthesis",
+      "gitlab_repository": "",
+      "gitee_repository": "",
+      "ctan_package": "",
+      "status": ""
+    }
+  ]
+}
