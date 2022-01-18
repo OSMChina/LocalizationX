@@ -1,5 +1,5 @@
 {
-  "BASIC": [
+  "EDITOR": [
     {
       "editor_name": "iDeditor/Rapid",
       "website_url": "",
@@ -27,6 +27,16 @@
       "translate_status": "有残缺",
       "translate_link": "https://hosted.weblate.org/projects/osmand",
       "code_repository": "https://github.com/osmandapp/OsmAnd",
+      "osmwiki_page": "",
+      "contributor": ""
+    },
+    {
+      "editor_name": "Level0",
+      "website_url": "https://level0.osmz.ru",
+      "translate_platform": "Transifex",
+      "translate_status": "有残缺",
+      "translate_link": "",
+      "code_repository": "",
       "osmwiki_page": "",
       "contributor": ""
     }
