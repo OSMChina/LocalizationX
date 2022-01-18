@@ -1,4 +1,5 @@
 import json
+from functools import cmp_to_key
 
 syntax_1 = "<!-- MARKDOWN_TABLE_BASIC BEGIN-->"
 syntax_2 = "<!-- WARNING: ALL TABLE ARE MAINTAINED BY PROGRAMME, YOU SHOULD ADD DATA TO COLLECTION JSON -->"
@@ -6,7 +7,9 @@ syntax_3 = "<!-- MARKDOWN_TABLE_BASIC END-->"
 
 
 def x_sort(data):
-    data = sorted(data)
+    def compare(dict_a: dict, dict_b: dict):
+        return 1
+    data = sorted(data, key=cmp_to_key(compare))
     return data
 
 
@@ -68,6 +71,7 @@ def markdown_gen(locale: str):
     string += markdown_table(
         column_data["len"],
     )
+    # content_data.sort(key=lambda x: x["basic_website_name"])
     content_data = x_sort(content_data)
     for i in range(len(content_data)):
         string += markdown_entry(content_data[i])
@@ -115,5 +119,5 @@ def readme_gen(readme_locale):
 
 
 readme_gen("")
-readme_gen("zh-CN")
-readme_gen("en-US")
+# readme_gen("zh-CN")
+# readme_gen("en-US")

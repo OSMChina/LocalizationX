@@ -11,9 +11,10 @@ OpenStreetMap 本地化索引
 <!-- MARKDOWN_TABLE_BASIC BEGIN-->
 <!-- WARNING: ALL TABLE ARE MAINTAINED BY PROGRAMME, YOU SHOULD ADD DATA TO COLLECTION JSON -->
 | 网站名称 | 网站URL | 翻译平台 | 翻译状态 | 翻译链接 | 代码仓库 | OSMWiki页面 | OSMChina参与成员 |
-|-|-|-|-|-|-|-|-|
-| OpenStreetMap 官网 | | TranslateWiki | | | | | 众多 |
-| OpenStreetMap Wiki网站 | | TranslateWiki | | | | | 众多 |
+| - | - | - | - | - | - | - | - |
+| OpenStreetMap 官网 | https://openstreetmap.org | TranslateWiki | 等待校对 |  |  |  | 众多 |
+| OpenStreetMap Wiki网站 | https://wiki.openstreetmap.org | TranslateWiki | 基本完善 |  |  |  | 众多 |
+
 <!-- MARKDOWN_TABLE_BASIC END-->
 
 ## 编辑器 / EDITOR
