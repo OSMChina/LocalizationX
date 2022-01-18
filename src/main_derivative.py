@@ -27,7 +27,7 @@ def markdown_header(translation: dict, locale: str):
         if translation[i]["locale"] == locale:
             locale_translation = translation[i]["translation"]
     data = [
-        locale_translation["derivative_name"],
+        locale_translation["name"],
         locale_translation["website_url"],
         locale_translation["translate_platform"],
         locale_translation["translate_status"],
@@ -46,7 +46,7 @@ def markdown_table(length: int):
 
 def markdown_entry(content_entry: dict):
     data = [
-        content_entry["derivative_name"],
+        content_entry["name"],
         content_entry["website_url"],
         content_entry["translate_platform"],
         content_entry["translate_status"],

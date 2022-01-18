@@ -1,7 +1,7 @@
 {
   "BASIC": [
     {
-      "basic_website_name": "OpenStreetMap 官网",
+      "name": "OpenStreetMap 官网",
       "website_url": "https://openstreetmap.org",
       "translate_platform": "TranslateWiki",
       "translate_status": "等待校对",
@@ -11,7 +11,7 @@
       "contributor": "众多"
     },
     {
-      "basic_website_name": "OpenStreetMap Wiki网站",
+      "name": "OpenStreetMap Wiki网站",
       "website_url": "https://wiki.openstreetmap.org",
       "translate_platform": "TranslateWiki",
       "translate_status": "基本完善",

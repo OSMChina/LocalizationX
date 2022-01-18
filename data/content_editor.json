@@ -1,7 +1,7 @@
 {
   "EDITOR": [
     {
-      "editor_name": "iDeditor/Rapid",
+      "name": "iDeditor/Rapid",
       "website_url": "",
       "translate_platform": "Transifex",
       "translate_status": "",
@@ -11,7 +11,7 @@
       "contributor": "众多"
     },
     {
-      "editor_name": "JOSM",
+      "name": "JOSM",
       "website_url": "",
       "translate_platform": "部分位于Transifex",
       "translate_status": "",
@@ -21,7 +21,7 @@
       "contributor": "众多"
     },
     {
-      "editor_name": "OsmAnd",
+      "name": "OsmAnd",
       "website_url": "https://osmand.net",
       "translate_platform": "Weblate",
       "translate_status": "有残缺",
@@ -31,7 +31,7 @@
       "contributor": ""
     },
     {
-      "editor_name": "Level0",
+      "name": "Level0",
       "website_url": "https://level0.osmz.ru",
       "translate_platform": "Transifex",
       "translate_status": "有残缺",
@@ -41,7 +41,7 @@
       "contributor": ""
     },
     {
-      "editor_name": "MapComplete",
+      "name": "MapComplete",
       "website_url": "https://mapcomplete.osm.be/",
       "translate_platform": "weblate",
       "translate_status": "",
@@ -51,7 +51,7 @@
       "contributor": ""
     },
     {
-      "editor_name": "Go!!Map",
+      "name": "Go!!Map",
       "website_url": "",
       "translate_platform": "weblate",
       "translate_status": "",
@@ -61,7 +61,7 @@
       "contributor": ""
     },
     {
-      "editor_name": "Organicmaps",
+      "name": "Organicmaps",
       "website_url": "",
       "translate_platform": "weblate",
       "translate_status": "",

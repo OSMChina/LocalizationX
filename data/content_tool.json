@@ -1,7 +1,7 @@
 {
   "TOOL": [
     {
-      "tool_name": "OpenStreetMap Welcome Tool",
+      "name": "OpenStreetMap Welcome Tool",
       "website_url": "[welcome.osm.be](https://welcome.osm.be)",
       "translate_platform": "GitHub",
       "translate_status": "等待校对",
@@ -11,7 +11,7 @@
       "contributor": "[@快乐的老鼠宝宝](https://github.com/LaoshuBaby)"
     },
     {
-      "tool_name": "HOT",
+      "name": "HOT",
       "website_url": "[HOT Tasking Manager](https://tasks.hotosm.org/)",
       "translate_platform": "Transifex",
       "translate_status": "完全没有",
@@ -21,7 +21,7 @@
       "contributor": "暂无"
     },
     {
-      "tool_name": "Taginfo",
+      "name": "Taginfo",
       "website_url": "[taginfo.openstreetmap.org](https://taginfo.openstreetmap.org)",
       "translate_platform": "GitHub",
       "translate_status": "残缺不全",
@@ -32,7 +32,7 @@
     }
     ,
     {
-      "tool_name": "Overpass-Turbo",
+      "name": "Overpass-Turbo",
       "website_url": "[overpass-turbo.eu](https://overpass-turbo.eu/)",
       "translate_platform": "Transifex",
       "translate_status": "完全没有",
@@ -43,7 +43,7 @@
     }
     ,
     {
-      "tool_name": " OpenRailwayMap",
+      "name": " OpenRailwayMap",
       "website_url": "[openrailwaymap.org](https://openrailwaymap.org)",
       "translate_platform": "GitHub",
       "translate_status": "仍有错漏",
@@ -54,7 +54,7 @@
     }
     ,
     {
-      "tool_name": "OSM Smart Menu",
+      "name": "OSM Smart Menu",
       "website_url": "",
       "translate_platform": "Weblate",
       "translate_status": "完全没有",
@@ -63,7 +63,7 @@
       "osmwiki_page": "",
       "contributor": "暂无"
     },{
-      "tool_name": "MapROuteleet",
+      "name": "MapROuteleet",
       "website_url": "",
       "translate_platform": "Transifex",
       "translate_status": "完全没有",
@@ -72,7 +72,7 @@
       "osmwiki_page": "",
       "contributor": "暂无"
     },{
-      "tool_name": "MapOSMatic",
+      "name": "MapOSMatic",
       "website_url": "https://print.get-map.org",
       "translate_platform": "Weblate 自部署",
       "translate_status": "完全没有",

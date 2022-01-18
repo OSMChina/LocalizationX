@@ -1,7 +1,7 @@
 {
   "DERIVATIVE": [
     {
-      "derivative_name": "OpenGeofictionMap",
+      "name": "OpenGeofictionMap",
       "website_url": "[opengeofiction.net](https://opengeofiction.net)",
       "translate_platform": "无",
       "translate_status": "无",
@@ -11,7 +11,7 @@
       "contributor": "无"
     },
     {
-      "derivative_name": "OpenHistoricalMap",
+      "name": "OpenHistoricalMap",
       "website_url": "[openhistoricalmap.org](http://www.openhistoricalmap.org)",
       "translate_platform": "无",
       "translate_status": "无",
@@ -20,7 +20,7 @@
       "osmwiki_page": "[[[Open_Historical_Map]]](https://wiki.openstreetmap.org/wiki/Open_Historical_Map)",
       "contributor": "无"
     },{
-      "derivative_name": "OpenSeaMap",
+      "name": "OpenSeaMap",
       "website_url": "",
       "translate_platform": "",
       "translate_status": "",
@@ -29,7 +29,7 @@
       "osmwiki_page": "",
       "contributor": ""
     },{
-      "derivative_name": "OpenSnowMap",
+      "name": "OpenSnowMap",
       "website_url": "",
       "translate_platform": "",
       "translate_status": "",
