@@ -41,24 +41,24 @@ def markdown_table(length: int):
     return markdown_row(length, data)
 
 
-def markdown_entry(thesis_entry: dict):
+def markdown_entry(content_entry: dict):
     data = [
-        thesis_entry["package_name"],
-        thesis_entry["institution_name"],
-        thesis_entry["maintainer_type"],
-        thesis_entry["github_repository"],
-        thesis_entry["gitlab_repository"],
-        thesis_entry["gitee_repository"],
-        thesis_entry["ctan_package"],
-        thesis_entry["status"],
+        content_entry["basic_website_name"],
+        content_entry["website_url"],
+        content_entry["translate_platform"],
+        content_entry["translate_status"],
+        content_entry["translate_link"],
+        content_entry["code_repository"],
+        content_entry["osmwiki_page"],
+        content_entry["contributor"],
     ]
     return markdown_row(len(data), data)
 
 
 def markdown_gen(locale: str):
-    content_json = open("..\\data\\thesis.json", "r", encoding="utf-8")
-    content_data = json.loads(thesis_json.read())["CUTI"]
-    column_json = open("..\\data\\column.json", "r", encoding="utf-8")
+    content_json = open("..\\data\\content_basic.json", "r", encoding="utf-8")
+    content_data = json.loads(content_json.read())["BASIC"]
+    column_json = open("..\\data\\column_basic.json", "r", encoding="utf-8")
     column_data = json.loads(column_json.read())
     string = ""
     if locale != "Default":
@@ -68,10 +68,9 @@ def markdown_gen(locale: str):
     string += markdown_table(
         column_data["len"],
     )
-    # WRONG CODE: thesis_data.sort(key=lambda x: x["package_name"])
-    thesis_data = x_sort(thesis_data)
-    for i in range(len(thesis_data)):
-        string += markdown_entry(thesis_data[i])
+    content_data = x_sort(content_data)
+    for i in range(len(content_data)):
+        string += markdown_entry(content_data[i])
     return string
 
 
