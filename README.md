@@ -23,6 +23,7 @@ OpenStreetMap 简体中文本地化 索引
 | iDeditor/Rapid | | Transifex | | | | | 目前暂无 | 众多 |
 | JOSM | | 部分位于Transifex | | | | | 目前暂无 | 众多 |
 | OsmAnd | osmand.net | Weblate | 有残缺 | https://hosted.weblate.org/projects/osmand/ | https://github.com/osmandapp/OsmAnd | x | x | x |
+level Transifex
 
 ## 工具
 
@@ -36,6 +37,10 @@ OpenStreetMap 简体中文本地化 索引
 | OSM Smart Menu | x | Weblate | 完全没有 | [osm-smart-menu](https://hosted.weblate.org/engage/osm-smart-menu) | https://github.com/jgpacker/osm-smart-menu | x | 暂无 | 暂无 |
 | MapROuteleet | - | Transifex | 完全没有 | https://www.transifex.com/osmlab/maproulette3/ | - | - | - | - |
 | MapOSMatic | https://print.get-map.org | Weblate | 完全没有 | https://translate.get-map.org/engage/maposmatic/?utm_source=widget | - | - | - | - |
+
+https://mapcomplete.osm.be/ weblate
+gomap weblate
+organicmaps weblate
 
 ## 衍生网站
 
