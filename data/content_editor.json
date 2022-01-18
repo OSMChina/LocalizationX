@@ -39,6 +39,36 @@
       "code_repository": "",
       "osmwiki_page": "",
       "contributor": ""
+    },
+    {
+      "editor_name": "MapComplete",
+      "website_url": "https://mapcomplete.osm.be/",
+      "translate_platform": "weblate",
+      "translate_status": "",
+      "translate_link": "",
+      "code_repository": "",
+      "osmwiki_page": "",
+      "contributor": ""
+    },
+    {
+      "editor_name": "Go!!Map",
+      "website_url": "",
+      "translate_platform": "weblate",
+      "translate_status": "",
+      "translate_link": "https://hosted.weblate.org/projects/go-map/",
+      "code_repository": "",
+      "osmwiki_page": "",
+      "contributor": ""
+    },
+    {
+      "editor_name": "Organicmaps",
+      "website_url": "",
+      "translate_platform": "weblate",
+      "translate_status": "",
+      "translate_link": "https://hosted.weblate.org/projects/organicmaps/",
+      "code_repository": "",
+      "osmwiki_page": "",
+      "contributor": ""
     }
   ]
 }
