@@ -19,12 +19,15 @@ OpenStreetMap 本地化索引
 
 ## 编辑器 / EDITOR
 
+<!-- MARKDOWN_TABLE_EDITOR BEGIN-->
+<!-- WARNING: ALL TABLE ARE MAINTAINED BY PROGRAMME, YOU SHOULD ADD DATA TO COLLECTION JSON -->
 | 编辑器名称 | 网站URL | 翻译平台 | 翻译状态 | 翻译链接 | 代码仓库 | OSMWiki页面 | OSMChina参与成员 |
 |-|-|-|-|-|-|-|-|
 | iDeditor/Rapid | | Transifex | | | | | 众多 |
 | JOSM | | 部分位于Transifex | | | | | 众多 |
 | OsmAnd | osmand.net | Weblate | 有残缺 | https://hosted.weblate.org/projects/osmand/ | https://github.com/osmandapp/OsmAnd | x | x |
 level Transifex
+<!-- MARKDOWN_TABLE_EDITOR END-->
 
 ## 工具 / TOOL
 
