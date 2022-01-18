@@ -1,16 +1,20 @@
 # OSMChina-Localization
-OpenStreetMap 本地化索引
 
-----------
+OpenStreetMap 本地化索引
 
 本项目用于记载各类OSM社区内的可翻译内容，以及其可见的翻译平台位于何处。
 
-## 基础内容
+----------
 
+## 基础网站
+
+<!-- MARKDOWN_TABLE BEGIN BASIC-->
+<!-- WARNING: ALL TABLE ARE MAINTAINED BY PROGRAMME, YOU SHOULD ADD DATA TO COLLECTION JSON -->
 | 网站名称 | 网站URL | 翻译平台 | 翻译状态 | 翻译链接 | 代码仓库 | OSMWiki页面 | OSMChina参与成员 |
 |-|-|-|-|-|-|-|-|-|
 | OpenStreetMap 官网 | | TranslateWiki | | | | | 众多 |
 | OpenStreetMap Wiki网站 | | TranslateWiki | | | | | 众多 |
+<!-- MARKDOWN_TABLE END BASIC-->"
 
 ## 编辑器
 
