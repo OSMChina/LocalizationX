@@ -1,24 +1,42 @@
 {
   "DERIVATIVE": [
     {
-      "derivative_name": "OpenStreetMap 官网",
-      "website_url": "https://openstreetmap.org",
-      "translate_platform": "TranslateWiki",
-      "translate_status": "等待校对",
-      "translate_link": "",
-      "code_repository": "",
-      "osmwiki_page": "",
-      "contributor": "众多"
+      "derivative_name": "OpenGeofictionMap",
+      "website_url": "[opengeofiction.net](https://opengeofiction.net)",
+      "translate_platform": "无",
+      "translate_status": "无",
+      "translate_link": "无",
+      "code_repository": "[geofictician/opengeofiction-website](https://github.com/geofictician/opengeofiction-website)",
+      "osmwiki_page": "[[[OpenGeofiction]]](https://wiki.openstreetmap.org/wiki/OpenGeofiction)",
+      "contributor": "无"
     },
     {
-      "derivative_name": "OpenStreetMap Wiki网站",
-      "website_url": "https://wiki.openstreetmap.org",
-      "translate_platform": "TranslateWiki",
-      "translate_status": "基本完善",
+      "derivative_name": "OpenHistoricalMap",
+      "website_url": "[openhistoricalmap.org](http://www.openhistoricalmap.org)",
+      "translate_platform": "无",
+      "translate_status": "无",
+      "translate_link": "无",
+      "code_repository": "[OpenHistoricalMap](https://github.com/OpenHistoricalMap)",
+      "osmwiki_page": "[[[Open_Historical_Map]]](https://wiki.openstreetmap.org/wiki/Open_Historical_Map)",
+      "contributor": "无"
+    },{
+      "derivative_name": "OpenSeaMap",
+      "website_url": "",
+      "translate_platform": "",
+      "translate_status": "",
       "translate_link": "",
       "code_repository": "",
       "osmwiki_page": "",
-      "contributor": "众多"
+      "contributor": ""
+    },{
+      "derivative_name": "OpenSnowMap",
+      "website_url": "",
+      "translate_platform": "",
+      "translate_status": "",
+      "translate_link": "",
+      "code_repository": "",
+      "osmwiki_page": "",
+      "contributor": ""
     }
   ]
 }
