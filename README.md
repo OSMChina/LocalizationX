@@ -47,6 +47,8 @@ OpenStreetMap 本地化索引
 | OSM Smart Menu |  | Weblate | 完全没有 | [osm-smart-menu](https://hosted.weblate.org/engage/osm-smart-menu) | [jgpacker/osm-smart-menu](https://github.com/jgpacker/osm-smart-menu) |  |  |
 | MapRoulette | https://maproulette.org | Transifex | 完全没有 | https://www.transifex.com/osmlab/maproulette3 | [osmlab/maproulette3](https://github.com/osmlab/maproulette3) | [[[MapRoulette]]](https://wiki.openstreetmap.org/wiki/MapRoulette) |  |
 | MapOSMatic (hholzgra) | https://print.get-map.org | Weblate (自部署) | 完全没有 | https://translate.get-map.org/engage/maposmatic | [hholzgra/maposmatic](https://github.com/hholzgra/maposmatic) | [[[MapOSMatic]]](https://wiki.openstreetmap.org/wiki/MapOSMatic) |  |
+| OpenStreetBrowser | http://www.openstreetbrowser.org/ | GitHub | 等待合并 | https://github.com/OSMChina/OpenStreetBrowser | [plepe/OpenStreetBrowser](https://github.com/plepe/OpenStreetBrowser) | [[[OpenStreetBrowser]]](https://wiki.openstreetmap.org/wiki/OpenStreetBrowser) |  |
+|  openstreetmap-date-format |  | GitHub | 完全没有 | https://github.com/OSMChina/openstreetmap-date-format | [plepe/openstreetmap-date-format](https://github.com/plepe/openstreetmap-date-format) |  |  |
 
 <!-- MARKDOWN_TABLE_TOOL END-->
 
