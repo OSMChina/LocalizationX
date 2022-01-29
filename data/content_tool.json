@@ -79,6 +79,26 @@
       "code_repository": "[hholzgra/maposmatic](https://github.com/hholzgra/maposmatic)",
       "osmwiki_page": "[[[MapOSMatic]]](https://wiki.openstreetmap.org/wiki/MapOSMatic)",
       "contributor": ""
+    },
+    {
+      "name": "OpenStreetBrowser",
+      "website_url": "http://www.openstreetbrowser.org/",
+      "translate_platform": "GitHub",
+      "translate_status": "等待合并",
+      "translate_link": "https://github.com/OSMChina/OpenStreetBrowser",
+      "code_repository": "[plepe/OpenStreetBrowser](https://github.com/plepe/OpenStreetBrowser)",
+      "osmwiki_page": "[[[OpenStreetBrowser]]](https://wiki.openstreetmap.org/wiki/OpenStreetBrowser)",
+      "contributor": ""
+    },
+    {
+      "name": " openstreetmap-date-format",
+      "website_url": "",
+      "translate_platform": "GitHub",
+      "translate_status": "完全没有",
+      "translate_link": "https://github.com/OSMChina/openstreetmap-date-format",
+      "code_repository": "[plepe/openstreetmap-date-format](https://github.com/plepe/openstreetmap-date-format)",
+      "osmwiki_page": "",
+      "contributor": ""
     }
   ]
 }
