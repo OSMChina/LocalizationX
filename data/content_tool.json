@@ -91,13 +91,23 @@
       "contributor": ""
     },
     {
-      "name": " openstreetmap-date-format",
+      "name": "openstreetmap-date-format",
       "website_url": "",
       "translate_platform": "GitHub",
       "translate_status": "完全没有",
       "translate_link": "https://github.com/OSMChina/openstreetmap-date-format",
       "code_repository": "[plepe/openstreetmap-date-format](https://github.com/plepe/openstreetmap-date-format)",
       "osmwiki_page": "",
+      "contributor": ""
+    },
+    {
+      "name": "Osmose-QA",
+      "website_url": "http://osmose.openstreetmap.fr/zh_CN/map/",
+      "translate_platform": "Transifex",
+      "translate_status": "不完整",
+      "translate_link": "https://www.transifex.com/openstreetmap-france/osmose/",
+      "code_repository": "[osm-fr/osmose-backend](https://github.com/osm-fr/osmose-backend)",
+      "osmwiki_page": "[[[Osmose]]](https://wiki.openstreetmap.org/wiki/Osmose)",
       "contributor": ""
     }
   ]
