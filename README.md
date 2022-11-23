@@ -4,6 +4,8 @@ OpenStreetMap 本地化索引
 
 本项目用于记载各类OSM社区内的可翻译内容，以及其可见的翻译平台位于何处。
 
+** Alternative index: https://wiki.openstreetmap.org/wiki/Translation **
+
 ----------
 
 ## 基础网站 / BASIC
