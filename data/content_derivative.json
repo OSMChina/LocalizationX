@@ -39,6 +39,16 @@
       "code_repository": "",
       "osmwiki_page": "",
       "contributor": ""
+    },
+    {
+      "name": "OpenAedMap",
+      "website_url": "[https://openaedmap.org](https://openaedmap.org)",
+      "translate_platform": "Weblate",
+      "translate_status": "",
+      "translate_link": "[Weblate](https://hosted.weblate.org/projects/openaedmap/#languages)",
+      "code_repository": "[openstreetmap-polska/openaedmap-frontend](https://github.com/openstreetmap-polska/openaedmap-frontend)",
+      "osmwiki_page": "",
+      "contributor": ""
     }
   ]
 }

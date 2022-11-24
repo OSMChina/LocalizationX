@@ -65,5 +65,6 @@ OpenStreetMap 本地化索引
 | OpenHistoricalMap | [openhistoricalmap.org](http://www.openhistoricalmap.org) |  |  |  | [OpenHistoricalMap](https://github.com/OpenHistoricalMap) | [[[Open_Historical_Map]]](https://wiki.openstreetmap.org/wiki/Open_Historical_Map) |  |
 | OpenSeaMap |  |  |  |  |  |  |  |
 | OpenSnowMap |  |  |  |  |  |  |  |
+| OpenAedMap | [https://openaedmap.org](https://openaedmap.org) | Weblate |  | [Weblate](https://hosted.weblate.org/projects/openaedmap/#languages) | [openstreetmap-polska/openaedmap-frontend](https://github.com/openstreetmap-polska/openaedmap-frontend) |  |  |
 
 <!-- MARKDOWN_TABLE_DERIVATIVE END-->
