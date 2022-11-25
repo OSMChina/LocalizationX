@@ -1,0 +1,20 @@
+{
+    "LocalizationX": {
+        "BASIC": {
+            "en": "Basic Website",
+            "zh-Hans": "基础网站"
+        },
+        "DERIVATIVE": {
+            "en": "Derivative Website",
+            "zh-Hans": "衍生网站"
+        },
+        "EDITOR": {
+            "en": "Editor",
+            "zh-Hans": "编辑器"
+        },
+        "TOOL": {
+            "en": "Tool",
+            "zh-Hans": "工具"
+        }
+    }
+}
