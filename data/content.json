@@ -1,4 +1,150 @@
 {
+  "BASIC": [
+    {
+      "name": "OpenStreetMap 官网",
+      "website_url": "https://openstreetmap.org",
+      "translate_platform": "TranslateWiki",
+      "translate_status": "等待校对",
+      "translate_link": "",
+      "code_repository": "",
+      "osmwiki_page": "",
+      "contributor": "众多"
+    },
+    {
+      "name": "OpenStreetMap Wiki网站",
+      "website_url": "https://wiki.openstreetmap.org",
+      "translate_platform": "TranslateWiki",
+      "translate_status": "基本完善",
+      "translate_link": "",
+      "code_repository": "",
+      "osmwiki_page": "",
+      "contributor": "众多"
+    }
+  ],
+  "DERIVATIVE": [
+    {
+      "name": "OpenGeofictionMap",
+      "website_url": "[opengeofiction.net](https://opengeofiction.net)",
+      "translate_platform": "",
+      "translate_status": "",
+      "translate_link": "",
+      "code_repository": "[geofictician/opengeofiction-website](https://github.com/geofictician/opengeofiction-website)",
+      "osmwiki_page": "[[[OpenGeofiction]]](https://wiki.openstreetmap.org/wiki/OpenGeofiction)",
+      "contributor": ""
+    },
+    {
+      "name": "OpenHistoricalMap",
+      "website_url": "[openhistoricalmap.org](http://www.openhistoricalmap.org)",
+      "translate_platform": "",
+      "translate_status": "",
+      "translate_link": "",
+      "code_repository": "[OpenHistoricalMap](https://github.com/OpenHistoricalMap)",
+      "osmwiki_page": "[[[Open_Historical_Map]]](https://wiki.openstreetmap.org/wiki/Open_Historical_Map)",
+      "contributor": ""
+    },
+    {
+      "name": "OpenSeaMap",
+      "website_url": "",
+      "translate_platform": "",
+      "translate_status": "",
+      "translate_link": "",
+      "code_repository": "",
+      "osmwiki_page": "",
+      "contributor": ""
+    },
+    {
+      "name": "OpenSnowMap",
+      "website_url": "",
+      "translate_platform": "",
+      "translate_status": "",
+      "translate_link": "",
+      "code_repository": "",
+      "osmwiki_page": "",
+      "contributor": ""
+    },
+    {
+      "name": "OpenAedMap",
+      "website_url": "[https://openaedmap.org](https://openaedmap.org)",
+      "translate_platform": "Weblate",
+      "translate_status": "",
+      "translate_link": "[Weblate](https://hosted.weblate.org/projects/openaedmap/#languages)",
+      "code_repository": "[openstreetmap-polska/openaedmap-frontend](https://github.com/openstreetmap-polska/openaedmap-frontend)",
+      "osmwiki_page": "",
+      "contributor": ""
+    }
+  ],
+  "EDITOR": [
+    {
+      "name": "iDeditor/Rapid",
+      "website_url": "",
+      "translate_platform": "Transifex",
+      "translate_status": "",
+      "translate_link": "",
+      "code_repository": "",
+      "osmwiki_page": "",
+      "contributor": "众多"
+    },
+    {
+      "name": "JOSM",
+      "website_url": "",
+      "translate_platform": "部分位于Transifex",
+      "translate_status": "",
+      "translate_link": "",
+      "code_repository": "",
+      "osmwiki_page": "",
+      "contributor": "众多"
+    },
+    {
+      "name": "OsmAnd",
+      "website_url": "https://osmand.net",
+      "translate_platform": "Weblate",
+      "translate_status": "有残缺",
+      "translate_link": "https://hosted.weblate.org/projects/osmand",
+      "code_repository": "https://github.com/osmandapp/OsmAnd",
+      "osmwiki_page": "",
+      "contributor": ""
+    },
+    {
+      "name": "Level0",
+      "website_url": "https://level0.osmz.ru",
+      "translate_platform": "Transifex",
+      "translate_status": "有残缺",
+      "translate_link": "",
+      "code_repository": "",
+      "osmwiki_page": "",
+      "contributor": ""
+    },
+    {
+      "name": "MapComplete",
+      "website_url": "https://mapcomplete.osm.be/",
+      "translate_platform": "weblate",
+      "translate_status": "",
+      "translate_link": "",
+      "code_repository": "",
+      "osmwiki_page": "",
+      "contributor": ""
+    },
+    {
+      "name": "Go!!Map",
+      "website_url": "",
+      "translate_platform": "weblate",
+      "translate_status": "",
+      "translate_link": "https://hosted.weblate.org/projects/go-map/",
+      "code_repository": "",
+      "osmwiki_page": "",
+      "contributor": ""
+    },
+    {
+      "name": "Organicmaps",
+      "website_url": "",
+      "translate_platform": "weblate",
+      "translate_status": "",
+      "translate_link": "https://hosted.weblate.org/projects/organicmaps/",
+      "code_repository": "",
+      "osmwiki_page": "",
+      "contributor": ""
+    }
+  ],
   "TOOL": [
     {
       "name": "OpenStreetMap Welcome Tool",
