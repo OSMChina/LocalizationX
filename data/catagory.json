@@ -1,7 +1,7 @@
 {
     "LocalizationX": {
-        "BASIC": {
-            "en": "Basic Website",
+        "CORE": {
+            "en": "Core Website",
             "zh-Hans": "基础网站"
         },
         "DERIVATIVE": {
