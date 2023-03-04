@@ -19,5 +19,11 @@ for catagory in content_json:
         new_entry["translation"]["contributor"]=entry["contributor"]
         new_catagory.append(new_entry)
     new_content[catagory]=new_catagory
-# from pprint import pprint
-# pprint(new_content)
+content_file.close()
+import os
+os.remove("content.json")
+content_file=open("content.json","w",encoding="utf-8")
+content_file.write(json.dumps(new_content,                        sort_keys=True,
+                        ensure_ascii=False,
+                        indent=2,))
+content_file.close()
