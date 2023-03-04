@@ -5,26 +5,26 @@
       "locale": "en",
       "translation": {
         "name": "{{catagory}} Name",
-        "website_url": "Website URL",
-        "translate_platform": "Translate Platform",
-        "translate_status": "Translate Status (zh-hans)",
-        "translate_link": "Translate Link",
-        "code_repository": "Code Repository",
-        "osmwiki_page": "OSM Wiki Page",
-        "contributor": "Community Contributor"
+        "basic.website": "Website URL",
+        "basic.repository": "Code Repository",
+        "basic.osmwiki": "OSM Wiki Page",
+        "translate.platform": "Translate Platform",
+        "translate.status": "Translate Status (zh-hans)",
+        "translate.link": "Translate Link",
+        "translate.contributor": "Community Contributor"
       }
     },
     {
       "locale": "zh-Hans",
       "translation": {
         "name": "{{catagory}}名称",
-        "website_url": "网站URL",
-        "translate_platform": "翻译平台",
-        "translate_status": "翻译状态",
-        "translate_link": "翻译链接",
-        "code_repository": "代码仓库",
-        "osmwiki_page": "OSMWiki页面",
-        "contributor": "本地社区参与成员"
+        "basic.website": "网站URL",
+        "basic.repository": "代码仓库",
+        "basic.osmwiki": "OSMWiki页面",
+        "translate.platform": "翻译平台",
+        "translate.status": "翻译状态",
+        "translate.link": "翻译链接",
+        "translate.contributor": "本地社区参与成员"
       }
     }
   ]
