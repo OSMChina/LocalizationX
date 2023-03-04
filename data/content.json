@@ -1,0 +1,385 @@
+{
+  "CORE": [
+    {
+      "id": "OpenStreetMap Website",
+      "meta": {
+        "osmwiki": "",
+        "repository": "",
+        "website": "https://openstreetmap.org"
+      },
+      "translation": [{
+        "team":"zh-Hans",
+        "contributor": [],
+        "link": "",
+        "platform": "TranslateWiki",
+        "status": "等待校对"
+      }]
+    },
+    {
+      "id": "OpenStreetMap Wiki",
+      "meta": {
+        "osmwiki": "",
+        "repository": "",
+        "website": "https://wiki.openstreetmap.org"
+      },
+      "translation": [{
+        "team":"zh-Hans",
+        "contributor": [],
+        "link": "",
+        "platform": "TranslateWiki",
+        "status": "基本完善"
+      }]
+    }
+  ],
+  "DERIVATIVE": [
+    {
+      "id": "OpenGeofictionMap",
+      "meta": {
+        "osmwiki": "[[[OpenGeofiction]]](https://wiki.openstreetmap.org/wiki/OpenGeofiction)",
+        "repository": "[geofictician/opengeofiction-website](https://github.com/geofictician/opengeofiction-website)",
+        "website": "[opengeofiction.net](https://opengeofiction.net)"
+      },
+      "translation": [{
+        "team":"zh-Hans",
+        "contributor": [],
+        "link": "",
+        "platform": "",
+        "status": ""
+      }]
+    },
+    {
+      "id": "OpenHistoricalMap",
+      "meta": {
+        "osmwiki": "[[[Open_Historical_Map]]](https://wiki.openstreetmap.org/wiki/Open_Historical_Map)",
+        "repository": "[OpenHistoricalMap](https://github.com/OpenHistoricalMap)",
+        "website": "[openhistoricalmap.org](http://www.openhistoricalmap.org)"
+      },
+      "translation": [{
+        "team":"zh-Hans",
+        "contributor": [],
+        "link": "",
+        "platform": "",
+        "status": ""
+      }]
+    },
+    {
+      "id": "OpenSeaMap",
+      "meta": {
+        "osmwiki": "",
+        "repository": "",
+        "website": ""
+      },
+      "translation": [{
+        "team":"zh-Hans",
+        "contributor": [],
+        "link": "",
+        "platform": "",
+        "status": ""
+      }]
+    },
+    {
+      "id": "OpenSnowMap",
+      "meta": {
+        "osmwiki": "",
+        "repository": "",
+        "website": ""
+      },
+      "translation": [{
+        "team":"zh-Hans",
+        "contributor": [],
+        "link": "",
+        "platform": "",
+        "status": ""
+      }]
+    },
+    {
+      "id": "OpenAedMap",
+      "meta": {
+        "osmwiki": "",
+        "repository": "[openstreetmap-polska/openaedmap-frontend](https://github.com/openstreetmap-polska/openaedmap-frontend)",
+        "website": "[https://openaedmap.org](https://openaedmap.org)"
+      },
+      "translation": [{
+        "team":"zh-Hans",
+        "contributor": [],
+        "link": "[Weblate](https://hosted.weblate.org/projects/openaedmap/#languages)",
+        "platform": "Weblate",
+        "status": ""
+      }]
+    }
+  ],
+  "EDITOR": [
+    {
+      "id": "iDeditor/Rapid",
+      "meta": {
+        "osmwiki": "",
+        "repository": "",
+        "website": ""
+      },
+      "translation": [{
+        "team":"zh-Hans",
+        "contributor": [],
+        "link": "",
+        "platform": "Transifex",
+        "status": ""
+      }]
+    },
+    {
+      "id": "JOSM",
+      "meta": {
+        "osmwiki": "",
+        "repository": "",
+        "website": ""
+      },
+      "translation": [{
+        "team":"zh-Hans",
+        "contributor": [],
+        "link": "",
+        "platform": "部分位于Transifex",
+        "status": ""
+      }]
+    },
+    {
+      "id": "OsmAnd",
+      "meta": {
+        "osmwiki": "",
+        "repository": "https://github.com/osmandapp/OsmAnd",
+        "website": "https://osmand.net"
+      },
+      "translation": [{
+        "team":"zh-Hans",
+        "contributor": [],
+        "link": "https://hosted.weblate.org/projects/osmand",
+        "platform": "Weblate",
+        "status": "有残缺"
+      }]
+    },
+    {
+      "id": "Level0",
+      "meta": {
+        "osmwiki": "",
+        "repository": "",
+        "website": "https://level0.osmz.ru"
+      },
+      "translation": [{
+        "team":"zh-Hans",
+        "contributor": [],
+        "link": "",
+        "platform": "Transifex",
+        "status": "有残缺"
+      }]
+    },
+    {
+      "id": "MapComplete",
+      "meta": {
+        "osmwiki": "",
+        "repository": "",
+        "website": "https://mapcomplete.osm.be/"
+      },
+      "translation": [{
+        "team":"zh-Hans",
+        "contributor": [],
+        "link": "",
+        "platform": "weblate",
+        "status": ""
+      }]
+    },
+    {
+      "id": "Go!!Map",
+      "meta": {
+        "osmwiki": "",
+        "repository": "",
+        "website": ""
+      },
+      "translation": [{
+        "team":"zh-Hans",
+        "contributor": [],
+        "link": "https://hosted.weblate.org/projects/go-map/",
+        "platform": "weblate",
+        "status": ""
+      }]
+    },
+    {
+      "id": "Organicmaps",
+      "meta": {
+        "osmwiki": "",
+        "repository": "",
+        "website": ""
+      },
+      "translation": [{
+        "team":"zh-Hans",
+        "contributor": [],
+        "link": "https://hosted.weblate.org/projects/organicmaps/",
+        "platform": "weblate",
+        "status": ""
+      }]
+    }
+  ],
+  "TOOL": [
+    {
+      "id": "OpenStreetMap Welcome Tool",
+      "meta": {
+        "osmwiki": "",
+        "repository": "[osmbe/osm-welcome-tool](https://github.com/osmbe/osm-welcome-tool)",
+        "website": "[welcome.osm.be](https://welcome.osm.be)"
+      },
+      "translation": [{
+        "team":"zh-Hans",
+        "contributor": [],
+        "link": "[OSMChina/osm-welcome-tool](https://github.com/OSMChina/osm-welcome-tool)",
+        "platform": "GitHub",
+        "status": "等待校对"
+      }]
+    },
+    {
+      "id": "HOT",
+      "meta": {
+        "osmwiki": "[[[Humanitarian_OSM_Team]]](https://wiki.openstreetmap.org/wiki/Humanitarian_OSM_Team)",
+        "repository": "[hotosm/tasking-manager](https://github.com/hotosm/tasking-manager)",
+        "website": "[HOT Tasking Manager](https://tasks.hotosm.org/)"
+      },
+      "translation": [{
+        "team":"zh-Hans",
+        "contributor": [],
+        "link": "[tasking-manager](https://www.transifex.com/hotosm/tasking-manager/dashboard/)",
+        "platform": "Transifex",
+        "status": "完全没有"
+      }]
+    },
+    {
+      "id": "Taginfo",
+      "meta": {
+        "osmwiki": "[[[Taginfo]]](https://wiki.openstreetmap.org/wiki/Taginfo)",
+        "repository": "[taginfo/taginfo](https://github.com/taginfo/taginfo)",
+        "website": "[taginfo.openstreetmap.org](https://taginfo.openstreetmap.org)"
+      },
+      "translation": [{
+        "team":"zh-Hans",
+        "contributor": [],
+        "link": "[OSMChina/taginfo](https://github.com/OSMChina/taginfo)",
+        "platform": "GitHub",
+        "status": "残缺不全"
+      }]
+    },
+    {
+      "id": "Overpass-Turbo",
+      "meta": {
+        "osmwiki": "[[[Overpass_turbo]]](https://wiki.openstreetmap.org/wiki/Overpass_turbo)",
+        "repository": "[tyrasd/overpass-turbo](https://github.com/tyrasd/overpass-turbo)",
+        "website": "[overpass-turbo.eu](https://overpass-turbo.eu/)"
+      },
+      "translation": [{
+        "team":"zh-Hans",
+        "contributor": [],
+        "link": "[overpass-turbo](https://www.transifex.com/projects/p/overpass-turbo)",
+        "platform": "Transifex",
+        "status": "完全没有"
+      }]
+    },
+    {
+      "id": " OpenRailwayMap",
+      "meta": {
+        "osmwiki": "[[[OpenRailwayMap]]](https://wiki.openstreetmap.org/wiki/OpenRailwayMap)",
+        "repository": "[OpenRailwayMap/OpenRailwayMap](https://github.com/OpenRailwayMap/OpenRailwayMap)",
+        "website": "[openrailwaymap.org](https://openrailwaymap.org)"
+      },
+      "translation": [{
+        "team":"zh-Hans",
+        "contributor": [],
+        "link": "[OpenRailwayMap/OpenRailwayMap](https://github.com/OpenRailwayMap/OpenRailwayMap)",
+        "platform": "GitHub",
+        "status": "仍有错漏"
+      }]
+    },
+    {
+      "id": "OSM Smart Menu",
+      "meta": {
+        "osmwiki": "",
+        "repository": "[jgpacker/osm-smart-menu](https://github.com/jgpacker/osm-smart-menu)",
+        "website": ""
+      },
+      "translation": [{
+        "team":"zh-Hans",
+        "contributor": [],
+        "link": "[osm-smart-menu](https://hosted.weblate.org/engage/osm-smart-menu)",
+        "platform": "Weblate",
+        "status": "完全没有"
+      }]
+    },
+    {
+      "id": "MapRoulette",
+      "meta": {
+        "osmwiki": "[[[MapRoulette]]](https://wiki.openstreetmap.org/wiki/MapRoulette)",
+        "repository": "[osmlab/maproulette3](https://github.com/osmlab/maproulette3)",
+        "website": "https://maproulette.org"
+      },
+      "translation": [{
+        "team":"zh-Hans",
+        "contributor": [],
+        "link": "https://www.transifex.com/osmlab/maproulette3",
+        "platform": "Transifex",
+        "status": "完全没有"
+      }]
+    },
+    {
+      "id": "MapOSMatic (hholzgra)",
+      "meta": {
+        "osmwiki": "[[[MapOSMatic]]](https://wiki.openstreetmap.org/wiki/MapOSMatic)",
+        "repository": "[hholzgra/maposmatic](https://github.com/hholzgra/maposmatic)",
+        "website": "https://print.get-map.org"
+      },
+      "translation": [{
+        "team":"zh-Hans",
+        "contributor": [],
+        "link": "https://translate.get-map.org/engage/maposmatic",
+        "platform": "Weblate Self-Hosted",
+        "status": "完全没有"
+      }]
+    },
+    {
+      "id": "OpenStreetBrowser",
+      "meta": {
+        "osmwiki": "[[[OpenStreetBrowser]]](https://wiki.openstreetmap.org/wiki/OpenStreetBrowser)",
+        "repository": "[plepe/OpenStreetBrowser](https://github.com/plepe/OpenStreetBrowser)",
+        "website": "http://www.openstreetbrowser.org/"
+      },
+      "translation": [{
+        "team":"zh-Hans",
+        "contributor": [],
+        "link": "https://github.com/OSMChina/OpenStreetBrowser",
+        "platform": "GitHub",
+        "status": "等待合并"
+      }]
+    },
+    {
+      "id": "openstreetmap-date-format",
+      "meta": {
+        "osmwiki": "",
+        "repository": "[plepe/openstreetmap-date-format](https://github.com/plepe/openstreetmap-date-format)",
+        "website": ""
+      },
+      "translation": [{
+        "team":"zh-Hans",
+        "contributor": [],
+        "link": "https://github.com/OSMChina/openstreetmap-date-format",
+        "platform": "GitHub",
+        "status": "完全没有"
+      }]
+    },
+    {
+      "id": "Osmose-QA",
+      "meta": {
+        "osmwiki": "[[[Osmose]]](https://wiki.openstreetmap.org/wiki/Osmose)",
+        "repository": "[osm-fr/osmose-backend](https://github.com/osm-fr/osmose-backend)",
+        "website": "http://osmose.openstreetmap.fr/zh_CN/map/"
+      },
+      "translation": [{
+        "team":"zh-Hans",
+        "contributor": [],
+        "link": "https://www.transifex.com/openstreetmap-france/osmose/",
+        "platform": "Transifex",
+        "status": "不完整"
+      }]
+    }
+  ]
+}

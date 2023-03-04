@@ -1,0 +1,31 @@
+{
+  "len": 8,
+  "i18n": [
+    {
+      "locale": "en",
+      "translation": {
+        "name": "{{catagory}} Name",
+        "basic.website": "Website URL",
+        "basic.repository": "Code Repository",
+        "basic.osmwiki": "OSM Wiki Page",
+        "translate.platform": "Translate Platform",
+        "translate.status": "Translate Status (zh-hans)",
+        "translate.link": "Translate Link",
+        "translate.contributor": "Community Contributor"
+      }
+    },
+    {
+      "locale": "zh-Hans",
+      "translation": {
+        "name": "{{catagory}}名称",
+        "basic.website": "网站URL",
+        "basic.repository": "代码仓库",
+        "basic.osmwiki": "OSMWiki页面",
+        "translate.platform": "翻译平台",
+        "translate.status": "翻译状态",
+        "translate.link": "翻译链接",
+        "translate.contributor": "本地社区参与成员"
+      }
+    }
+  ]
+}
