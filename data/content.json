@@ -2,13 +2,19 @@
   "CORE": [
     {
       "name": "OpenStreetMap 官网",
-      "website_url": "https://openstreetmap.org",
-      "translate_platform": "TranslateWiki",
-      "translate_status": "等待校对",
-      "translate_link": "",
-      "code_repository": "",
-      "osmwiki_page": "",
-      "contributor": "众多"
+      "basic":{
+        "website_url": "https://openstreetmap.org",
+        "code_repository": "",
+        "osmwiki_page": "",
+      },
+      "translate":[{
+        "translate_platform": "TranslateWiki",
+        "translate_status": "等待校对",
+        "translate_link": "",
+        "contributor": "众多"
+      }]
+      
+      
     },
     {
       "name": "OpenStreetMap Wiki网站",
